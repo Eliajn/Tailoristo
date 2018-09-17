@@ -1,0 +1,49 @@
+.container-mdl {
+	display: flex; 
+	justify-content: center; 
+	align-items:center;
+}
+.feeds-margin{
+	margin-left:10px;
+}
+.page_width {
+	width:980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.form{
+	padding:10px;
+}
+.anchor{
+	text-decoration: none;
+}
+
+.mdl-grid {
+	max-width: 980px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.mdl-card__media{
+	margin:0px;
+	min-width: 100%;
+}
+.mdl-card__media > img {
+	width: 100%;
+	height: 100%;
+}
+.mdl-card__actions {
+	display: flex;
+	box-sizing:border-box;
+	align-items: center;
+}
+.mdl-card__actions > .mdl-button--icon {
+	margin-right: 3px;
+	margin-left: 3px;
+}
+
+.posts{
+	flex-flow: row wrap;
+	/*height:450px;*/
+}

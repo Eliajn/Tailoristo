@@ -1,0 +1,34 @@
+.image-size{
+	width:240px;
+	height:256px;
+	object-fit: fill;
+}
+.card-width{
+	width: 340px;
+}
+.margin-page{
+	margin:10px;
+}
+.carousel-indicators-margin{
+	margin-top:40px;
+}
+.card-profile-margin{
+	margin-top:6%;
+	margin-bottom: 6%;
+}
+.add-post-margin{
+	margin-top:6%;
+}
+.register-center{
+	display: flex; 
+	justify-content: center; 
+	align-items:center;
+	margin-top:6%;
+}
+.button-add{
+	float:left;
+}
+.margin-button-add{
+	margin-bottom:10px;
+
+}

@@ -1,0 +1,22 @@
+.colorred{
+	color:red;
+}
+.colorblack{
+	color:lightgrey;
+}
+.modal-card-size{
+	width:100%;
+}
+.flexrow{
+	flex-direction: column;
+}
+.display-flex{
+	display: flex;
+}
+.bold{
+	font-weight: bold;
+	align-items: center;
+}
+.anchor{
+	color:white;
+}
